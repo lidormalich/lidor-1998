@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- info -->
+  <string id="1001">טעינת הסדרות החלה</string>"
+  <string id="1002">נוספו {0}/{1}.טעינת הסדרות הסתיימה</string>"
+  <string id="1003">טעינת הפרקים החלה</string>"
+  <string id="1004">נוספו {0}/{1}. טעינת הפרקים הסתיימה</string>"
+  <string id="1005">טעינת החבילה החלה</string>"
+  <string id="1006">נוספו {0}/{1}. טעינת החבילה הסתיימה</string>"
+  <string id="1007">טעינת המארזים החלה</string>"
+  <string id="1008">נוספו {0}/{1}. טעינת המארזים הסתיימה</string>"
+  <string id="1009">נקה ספריה</string>"
+  <string id="1010">נקה קבצי מטמון</string>"
+  <string id="1011">נקה קבצי לוגים</string>"
+
+<!-- Fillter -->
+  <!-- settings -->
+  <string id="30000">סינון</string>
+  <string id="30001">סינון לפי שנים </string>
+  <string id="30002">סינון לפי דירוג</string>
+  <string id="30003">סינון לפי ז'אנר </string>
+  <string id="30004">לינק imdb</string>
+  <string id="30005">התעלם מסדרה</string>
+  <string id="30006">סינון לפי מספר פרקים</string>
+  <!-- genres values -->
+  <string id="30100">הכל</string>
+  <string id="30101">פעולה</string>
+  <string id="30102">הרפתקאות</string>
+  <string id="30103">קומדיה</string>
+  <string id="30104">דרמה</string>
+  <string id="30105">אימה</string>
+  <string id="30106">מתח</string>
+  <string id="30107">אנימציה</string>
+  <string id="30108">מערבון</string>
+  <string id="30109">מלחמה</string>
+  <string id="30110">רומנטיקה</string>
+  <string id="30111">מדע בדיוני</string>
+  <string id="30112">מיסטורין</string>
+  <string id="30113">פשע</string>
+  <string id="30114">היסטוריה</string>
+  <string id="30115">משפחה</string>
+  <string id="30116">פנטזיה</string>
+  <string id="30117">דוקומנטרי</string>
+  <string id="30118">ביוגרפיה</string>
+  <string id="30119">מוזיקה</string>
+  <string id="30120">מחזמר</string>
+  <string id="30121">גדולים</string>
+  <string id="30122">חדשות</string>
+  <string id="30123">סרט קצר</string>
+  <string id="30124">ספורט</string>
+  <string id="30125">זר</string>
+  <!-- years values -->
+  <string id="30200">מעל שנה</string>
+  <string id="30201">מתחת לשנה</string>
+  <!-- rating values -->
+  <string id="30300">מעל דירוג</string>
+  <string id="30301">מתחת לדירוג</string>
+  <string id="30302">הצבעות מעל</string>
+  <!-- sort mode -->
+  <string id="30400">סדר לפי</string>
+  <string id="30401">מספר מצביעים</string>
+  <string id="30402">דירוג משוקלל</string>
+  <string id="30403">דירוג משתמשים</string>
+  <string id="30404">שנה</string>
+  <string id="30405">תאריך שידור בארצות הברית</string>
+  <!-- sort mode direction-->
+  <string id="30500">בסדר</string>
+  <string id="30501">יורד</string>
+  <string id="30502">עולה</string>  
+  <!-- ignore -->
+  <string id="30511">התעלם ממזהה IMDB</string>
+  <string id="30512">התעלם מקובץ מזהיי IMDB</string>
+  <!-- Episode count -->
+  <string id="30521">מעל מספר פרקים</string>
+  <string id="30522">כאשר השנה מתחת</string>
+<!-- Update-->
+  <string id="31000">עדכן</string>
+  <string id="31001">אוטומטי</string>
+  <string id="31002">ידני</string>
+  <string id="31003">עדכן סדרות</string>
+  <string id="31004">פרטי עדכון</string>
+  <string id="31005">עידכון סדרות אחרון</string>
+  <string id="31006">השהיית עדכון הסדרות (דקות)</string>
+  <string id="31007">זמן לעדכון הסדרות</string>  
+  <string id="31008">עידכון פרקים אחרון</string>
+  <string id="31009">השהיית עדכון הפרקים (דקות)</string>  
+  <string id="31010">זמן לעדכון הפרקים</string>  
+  <string id="31011">עדכן פרקים</string>
+  <string id="31012">הצג התראות</string>
+  <string id="31013">הורד תמונות</string>
+  <string id="31014">מיקום הספריה</string>
+  <!-- refresh interval -->
+  <string id="31111">ללא</string>
+  <string id="31112">פעם אחת</string>
+  <string id="31113">בכל יום</string>
+  <string id="31114">בכל יומיים</string>
+  <string id="31115">בכל 3 ימים</string>
+  <string id="31116">בכל שבוע</string>
+  <string id="31117">בכל 3 שעות</string>
+  <!-- refresh items -->
+  <string id="31020">מספר סדרות להוספה</string>
+  <!-- stream mode -->
+  <string id="31030">שיטת ההזרמה</string>
+  <string id="31031">Exodus</string>
+  <string id="31032">Pulsar</string>
+  <string id="31033">Stream All The Sources (SALTS)</string>
+  <string id="31034">Quasar</string>
+  <!-- Bundles/Packages -->
+  <string id="32000">מארז/חבילה</string>
+  <string id="32001">מארזים - קבצי טקסט</string>
+  <string id="32002">מיקום ספריית המארזים</string>
+  <string id="32003">הוסף מספריית המארזים</string>
+  <string id="32004">חבילות - קבצי zip</string>
+  <string id="32005">מיקום החבילה</string>  
+  <string id="32006">הוסף סדרות מהחבילה</string>  
+  <string id="32007">מיקום החבילה ברשת</string>  
+  <string id="32008">הוסף סדרות מהחבילה ברשת</string>  
+  <string id="32009">רשימת קוד IMDB</string>
+  <string id="32010">טען מרשימת קוד IMDB</string>
+  <string id="32011">קוד IMDB</string>
+<!-- clean -->
+  <string id="32100">ניקוי</string>
+  <string id="32101">נקה ספריית הסדרות</string>
+  <string id="32102">נקה מטמון</string>
+  <string id="32103">נקה לוגים</string>
+<!-- language -->
+  <string id="33000">שפה</string>
+  <string id="33001">שפת מידע על הסדרות</string>
+  <string id="33002">טען רק סדרות עם כתוביות בשפה</string>
+  <!-- info -->  
+  <string id="33101">English</string>
+  <string id="33102">Svenska</string>
+  <string id="33103">Norsk</string>
+  <string id="33104">Dansk</string>
+  <string id="33105">Suomeksi</string>
+  <string id="33106">Nederlands</string>
+  <string id="33107">Deutsch</string>
+  <string id="33108">Italiano</string>
+  <string id="33109">Español</string>
+  <string id="33110">Français</string>
+  <string id="33111">Polski</string>
+  <string id="33112">Magyar</string>
+  <string id="33113">Greek</string>
+  <string id="33114">Turkish</string>
+  <string id="33115">Russian</string>
+  <string id="33116">עברית</string>
+  <string id="33117">Japanese</string>
+  <string id="33118">Portuguese</string>
+  <string id="33119">Chinese</string>
+  <string id="33120">Czech</string>
+  <string id="33121">Slovenian</string>
+  <string id="33122">Croatian</string>
+  <string id="33123">Korean</string> 
+  <!-- subs -->  
+  <string id="33401">הכל</string>  
+  <string id="33402">Albanian</string>  
+  <string id="33403">Albanian</string>
+  <string id="33404">Arabic</string>
+  <string id="33405">Bosnian</string>
+  <string id="33406">Brazilian</string>
+  <string id="33407">Bulgarian</string>
+  <string id="33408">Croatian</string>
+  <string id="33409">Czech</string>
+  <string id="33410">Danish</string>
+  <string id="33411">Dutch</string>
+  <string id="33412">English</string>
+  <string id="33413">Estonian</string>
+  <string id="33414">Farsi</string>
+  <string id="33415">Finnish</string>
+  <string id="33416">French</string>
+  <string id="33417">German</string>
+  <string id="33418">Greek</string>
+  <string id="33419">עברית</string>
+  <string id="33420">Hungarian</string>
+  <string id="33421">Italian</string>
+  <string id="33422">Norwegian</string>
+  <string id="33423">Polish</string>
+  <string id="33424">Portuguese</string>
+  <string id="33425">Romanian</string>
+  <string id="33426">Russian</string>
+  <string id="33427">Serbian</string>
+  <string id="33428">Slovenian</string>
+  <string id="33429">Spanish</string>
+  <string id="33430">Swedish</string>
+  <string id="33431">Turkish</string>
+  <string id="33432">Vietnamese</string>
+  
+</strings>

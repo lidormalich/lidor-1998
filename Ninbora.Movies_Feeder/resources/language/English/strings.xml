@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- info -->
+  <string id="1001">Refresh Started</string>
+  <string id="1002">Added {0} . Refresh Ended</string>
+  <string id="1003">Load Bundles Start</string>
+  <string id="1004">Added {0} . Load Bundles Ended</string>
+  <string id="1005">Load Package Started</string>
+  <string id="1006">Added {0} . Load Package Ended</string>
+  <string id="1007">Library Cleaned </string>
+  <string id="1008">Cache Cleaned</string>
+  <string id="1009">Logs Cleaned</string>
+
+  <!-- settings -->
+  <string id="30000">Filter</string>
+  <string id="30001">Filter By Years </string>
+  <string id="30002">Filter By Rating</string>
+  <string id="30003">Filter By Genre </string>
+  <!-- genres values -->
+  <string id="30100">Any</string>
+  <string id="30101">Action</string>
+  <string id="30102">Adventure</string>
+  <string id="30103">Comedy</string>
+  <string id="30104">Drama</string>
+  <string id="30105">Horror</string>
+  <string id="30106">Thriller</string>
+  <string id="30107">Animation</string>
+  <string id="30108">Western</string>
+  <string id="30109">War</string>
+  <string id="30110">Romance</string>
+  <string id="30111">Sci-Fi</string>
+  <string id="30112">Mystery</string>
+  <string id="30113">Crime</string>
+  <string id="30114">History</string>
+  <string id="30115">Family</string>
+  <string id="30116">Fantasy</string>
+  <string id="30117">Documentary</string>
+  <string id="30118">Biography</string>
+  <string id="30119">Music</string>
+  <string id="30120">Musical</string>
+  <string id="30121">Adult</string>
+  <string id="30122">News</string>
+  <string id="30123">Short</string>
+  <string id="30124">Sport</string>
+  <string id="30125">Film-Noir</string>
+  <!-- years values -->
+  <string id="30200">Above Year</string>
+  <string id="30201">Below Year</string>
+  <!-- rating values -->
+  <string id="30300">Above Rating</string>
+  <string id="30301">Below Rating</string>
+
+  <string id="31000">Update</string>
+  <string id="31001">Automatic</string>
+  <string id="31002">Manual</string>
+  <string id="31003">Update Now</string>
+  <string id="31004">Last Update</string>
+  <string id="31005">Refresh First Delay (Minutes)</string>
+  <string id="31006">Refresh Info</string>
+  <string id="31007">Display Notifications</string>
+  <string id="31008">Download Thumbs</string>
+  <string id="31009">Library Location</string>
+
+  <!-- refresh interval -->
+  <string id="31010">Refresh Interval</string>
+  <string id="31011">6  hours</string>
+  <string id="31012">12 hours</string>
+  <string id="31013">1 day</string>
+  <string id="31014">2 days</string>
+  <string id="31015">3 days</string>
+  <!-- refresh items -->
+  <string id="31020">Items to update</string>
+  <string id="31021">last 160 items</string>
+  <string id="31022">last 320 items</string>
+  <string id="31023">All new items</string>
+  <!-- refresh items -->
+  <string id="31030">Refresh mode</string>
+  <string id="31031">None</string>
+  <string id="31032">One time</string>
+  <string id="31033">Many times</string>
+
+  <string id="31040">Stream mode</string>
+  <string id="31041">Exodus</string>
+  <string id="31042">Pulsar</string>
+  <string id="31043">Stream All The Sources (SALTS)</string>
+  <string id="31044">Quasar</string>
+  <string id="32000">Bundles/Packages</string>
+  <string id="32001">Bundles</string>
+  <string id="32002">Bundle Source</string>
+  <string id="32003">Add From Bundle Source</string>
+  <string id="32004">Packages</string>
+  <string id="32005">Package File</string>
+  <string id="32006">Add From Package File</string>
+  <string id="32007">Package Link</string>
+  <string id="32008">Add From Package Link</string>
+
+  <string id="32100">Clean</string>
+  <string id="32101">Clean Library</string>
+  <string id="32102">Clean Cache</string>
+  <string id="32103">Clean Logs</string>
+</strings>

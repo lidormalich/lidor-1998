@@ -1,0 +1,6 @@
+
+name="Simple Wizard By Lidor Malich"
+url="https://www.dropbox.com/s/20gv15ritqqjtyp/Build.zip?dl=1"
+img="http://i.imgur.com/4kOhykT.jpg"
+fanart="http://i.imgur.com/ubjHuAr.png"
+description="סימפל וויזארד-התקנה פשוטה ומהירה*גרסא אחרונה מספר 1.0.0.1"

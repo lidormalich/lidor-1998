@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="31000">
+    <setting                       type="lsep"      label="31001"/>
+    <setting id="refresh_mode"     type="enum"      label="31030" default="2" lvalues="31031|31032|31033"/>
+    <setting id="refresh_first"    type="slider"    label="31005" default="5" range="0,1,720" option="int" />
+    <setting id="refresh_interval" type="enum"      label="31010" default="0" lvalues="31011|31012|31013|31014|31015"/>
+    <setting                       type="lsep"      label="31002" />
+    <setting id="refresh_size"     type="enum"      label="31020" default="0" lvalues="31021|31022|31023"    />
+    <setting                       type="action"    label="31003" action="RunScript($CWD/manual.py,updateNow)"   option="close" />
+    <setting                       type="lsep"      label="31006" />
+    <setting id="last_update"      type="text"      label="31004" default="0" />
+    <setting id="library"          type="folder"    label="31009" default="" />
+    <setting id="notify"           type="bool"      label="31007" default="true" />
+    <setting id="with_thumb"       type="bool"      label="31008" default="false"/>
+    <setting id="stream_mode"      type="enum"      label="31040" default="0" lvalues="31041|31042|31043|31044"    />
+  </category>
+  <category label="30000">
+    <setting                       type="lsep"      label="30001" />
+
+    <setting id="year_above"       type="slider"    label="30200"   default="1930" range="1930,1,2020" option="int" />
+    <setting id="year_below"       type="slider"    label="30201"   default="2020" range="1930,1,2020" option="int" />
+    <setting                       type="lsep"      label="30002" />
+
+    <setting id="rating_above"     type="slider"    label="30300"   default="0"    range="0, 0.1 ,10" option="float" />
+    <setting id="rating_below"     type="slider"    label="30301"   default="10"   range="0, 0.1, 10" option="float" />
+    <setting                type="lsep" label="30003" />
+
+    <setting id="genre_00"  type="bool" label="30100" default="false"/>
+    <setting id="genre_01"  type="bool" label="30101" default="false"/>
+    <setting id="genre_02"  type="bool" label="30102" default="false"/>
+    <setting id="genre_03"  type="bool" label="30103" default="false"/>
+    <setting id="genre_04"  type="bool" label="30104" default="false"/>
+    <setting id="genre_05"  type="bool" label="30105" default="false"/>
+    <setting id="genre_06"  type="bool" label="30106" default="false"/>
+    <setting id="genre_07"  type="bool" label="30107" default="false"/>
+    <setting id="genre_08"  type="bool" label="30108" default="false"/>
+    <setting id="genre_09"  type="bool" label="30109" default="false"/>
+    <setting id="genre_10"  type="bool" label="30110" default="false"/>
+    <setting id="genre_11"  type="bool" label="30111" default="false"/>
+    <setting id="genre_12"  type="bool" label="30112" default="false"/>
+    <setting id="genre_13"  type="bool" label="30113" default="false"/>
+    <setting id="genre_14"  type="bool" label="30114" default="false"/>
+    <setting id="genre_15"  type="bool" label="30115" default="false"/>
+    <setting id="genre_16"  type="bool" label="30116" default="false"/>
+    <setting id="genre_17"  type="bool" label="30117" default="false"/>
+    <setting id="genre_18"  type="bool" label="30118" default="false"/>
+    <setting id="genre_19"  type="bool" label="30119" default="false"/>
+    <setting id="genre_20"  type="bool" label="30120" default="false"/>
+    <setting id="genre_21"  type="bool" label="30121" default="false"/>
+    <setting id="genre_22"  type="bool" label="30122" default="false"/>
+    <setting id="genre_23"  type="bool" label="30123" default="false"/>
+    <setting id="genre_24"  type="bool" label="30124" default="false"/>
+    <setting id="genre_25"  type="bool" label="30125" default="false"/>
+  </category>
+  <category label="32000">
+      <setting                       type="lsep"      label="32001" />
+      <setting id="bundle_source"    type="folder"    label="32002" source="auto" default="{data}/Bundles"/>
+      <setting                       type="action"    label="32003" action="RunScript($CWD/manual.py,loadBundles)"      option="close" />
+      <setting                       type="lsep"      label="32004" />
+      <setting id="package_file"     type="file"      label="32005" source="auto" default="{data}/Bundles"/>
+      <setting                       type="action"    label="32006" action="RunScript($CWD/manual.py,loadPackageFile)"  option="close" />
+      <setting id="package_link"     type="text"      label="32007" source="auto" default=""/>
+      <setting                       type="action"    label="32008" action="RunScript($CWD/manual.py,loadPackageLink)"  option="close" />
+  </category>
+  <category label="32100">
+    <setting                       type="action"    label="32101" action="RunScript($CWD/manual.py,cleanLibrary)" option="close"/>
+    <setting                       type="action"    label="32102" action="RunScript($CWD/manual.py,cleanCache)"   option="close"/>
+    <setting                       type="action"    label="32103" action="RunScript($CWD/manual.py,cleanLogs)"    option="close"/>
+  </category>
+</settings>

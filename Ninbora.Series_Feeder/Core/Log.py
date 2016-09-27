@@ -1,0 +1,7 @@
+# Copyright (C) 2014 Ninbora [admin@ninbora.com]
+# Licensed under MIT license [http://opensource.org/licenses/MIT]
+
+def logConsole(message, filename="main.log"):
+  print message
+
+log = logConsole

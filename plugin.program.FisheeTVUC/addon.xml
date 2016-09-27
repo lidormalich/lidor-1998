@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.FisheeTVUC" name="FisheeTV Update Center" version="1.0.2" provider-name="Etai Fishler">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">FisheeTV Update Center Wizard Setup</summary>
+		<description lang="en">Click to install FisheeTV Update Center and get the latest updates available for your FisheeTV build!</description>
+		<disclaimer lang="en">V1.0.2</disclaimer>
+		<forum></forum>
+		<source>http://fisheetv.myfreesites.net/</source>
+		<website>http://fisheetv.myfreesites.net/</website>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Sport" name="Sport Repo" version="1.0.0" provider-name="Sport">
+	<extension point="xbmc.addon.repository">
+		<info compressed="false">https://raw.githubusercontent.com/lidormalicb/Sport/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/lidormalicb/Sport/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/lidormalicb/Sport/master/</datadir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

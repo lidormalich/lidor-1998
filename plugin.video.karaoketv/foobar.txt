@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="he"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="he"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="he"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js" lang="he">  <![endif]-->
+<html lang="he">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<title>קריוקי TV</title>
+<meta name="description" content="" >
+<meta name="keywords" content="קריוקי TV" >
+<meta name="robots" content="noindex, nofollow" >
+<meta name="theme-color" content="#3e464c" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+<meta name="handheldfriendly" content="True" >
+<meta name="mobileoptimized" content="320" >
+<meta property="og:title" content="" >
+<meta property="og:description" content="" >
+<meta property="og:type" content="website" >
+<meta property="og:url" content="http://www.karaoketv.co.il/develop/" >
+<meta property="og:image" content="http://www.karaoketv.co.il/develop/images/facebookShare.jpg" >
+<meta property="og:site_name" content="קריוקי TV" >
+<meta property="fb:admins" content="" >
+<meta name="google-site-verification" content="" >
+			<link href="http://www.karaoketv.co.il/develop/css/rtl-styles.combined.css" type="text/css" rel="stylesheet"/>
+						<link href="http://www.karaoketv.co.il/develop/css/na_style.css.php?naLang=heb&t=5" type="text/css" rel="stylesheet"/>
+			<link rel="shortcut icon" href="http://www.karaoketv.co.il/develop/images/favicon.ico?t=5" />
+<link rel="icon" href="http://www.karaoketv.co.il/develop/images/favicon.ico?t=5" />
+<link rel="apple-touch-icon" href="http://www.karaoketv.co.il/develop/images/apple-touch-icon.png?t=5"/>
+<script>document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script>
+<script type="text/javascript" >
+	var _base = "http://www.karaoketv.co.il/develop";
+	var _base_lang = "http://www.karaoketv.co.il/develop";
+	var _base_lang_secure = "https://www.karaoketv.co.il/develop";
+	var _base_lang_unsecure = "http://www.karaoketv.co.il/develop";
+	var _ajax_link = "http://www.karaoketv.co.il/develop/na_ajax.php";
+    var _lang = "heb";
+    var _access_statement = "http://www.karaoketv.co.il/develop/contents.php?id=73";
+</script>
+			<script type="text/javascript" src="http://www.karaoketv.co.il/develop/js/scripts.combined.js"></script>
+			<script type="text/javascript" >
+	$(function(){
+		fix_external_links();
+		homePage.init()
+			});
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-40065427-1']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body >
+	<!-- Header Contents Here -->
+    <div class="wrapper">
+        <header role="banner">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+						<div class="pull-right">
+							<div class="login inlineBlock hidden-xs">
+																	שלום אורח, <a href="http://www.karaoketv.co.il/develop/%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95%D7%AA" class="goLogin">התחבר</a>
+								    							</div>
+							<div class="register inlineBlock hidden-xs">
+																	משתמש חדש?<a href="http://www.karaoketv.co.il/develop/%D7%94%D7%A8%D7%A9%D7%9E%D7%94">הרשם חינם</a>
+															</div>
+                            <div class="langWrap inlineBlock">
+                                                                <button class="dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button" style="box-shadow: none;">
+                                    <span class="heb">עברית</span>
+                                </button>
+                                <ul class="dropdown-menu">
+                                                                            <li class=" active"><a href="http://www.karaoketv.co.il/develop" target="_self" rel="ibox">עברית</a></li>
+                                                                            <li class=""><a href="http://eng.karaoketv.co.il/develop" target="_self" rel="ibox">English</a></li>
+                                                                            <li class=""><a href="http://fra.karaoketv.co.il/develop" target="_self" rel="ibox">Français</a></li>
+                                                                    </ul>
+                            </div>
+							<div class="accesContainer inlineBlock"></div>
+						</div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="headerWrapper">
+                            <div class="logo pull-left">
+                                <a href="http://www.karaoketv.co.il/develop"><img src="http://www.karaoketv.co.il/develop/images/logo.png" alt="קריוקיTV"></a>
+                            </div>
+                            <div class="navbar-header">
+                                <button type="button" class="navBtn navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false" tabindex="-1">
+                                    <span class="sr-only">ניווט</span>
+                                    <span class="icon-bar first"></span>
+                                    <span class="icon-bar second"></span>
+                                    <span class="icon-bar third"></span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="collapse navbar-collapse mainmenu navbar-left" id="navbar-collapse-1">
+                            <nav role="navigation" aria-label="main navigation" class="menu-mobile clearfix">
+                                <div class="login-mobile visible-xs">
+                                                                            שלום אורח, <a href="http://www.karaoketv.co.il/develop/%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95%D7%AA">התחבר</a> / <a href="http://www.karaoketv.co.il/develop/%D7%94%D7%A8%D7%A9%D7%9E%D7%94">הרשם חינם</a>
+                                                                    </div>
+                                <ul class="nav navbar-nav"><li class="active">
+<a  href="http://www.karaoketv.co.il/develop" >ראשי<span class="sr-only">(נוחכי)</span></a>
+</li>
+<li class="dropdown">
+<a data-toggle="dropdown" role="button" class="dropdown-toggle" href="#" >קטגוריות<span class="caret hasChildren"></span></a>
+        <div class="dropdown-menu">
+            <div class="container">
+                <div class="row categories">
+                    <div>
+                                                    <ul class="catUl col-md-9">
+                                <li class="visible-xs backToMenu">חזרה לתפריט הראשי</li>
+                                <li class="mainLi">
+                                <ul class="col-md-4">
+
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat22/%D7%94%D7%9E%D7%91%D7%95%D7%A7%D7%A9%D7%99%D7%9D_%D7%91%D7%99%D7%95%D7%AA%D7%A8">המבוקשים ביותר</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat8/%D7%97%D7%93%D7%A9_%D7%91%D7%A7%D7%A8%D7%99%D7%95%D7%A7%D7%99">חדש בקריוקי</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat9/%D7%99%D7%9D_%D7%AA%D7%99%D7%9B%D7%95%D7%A0%D7%99">ים תיכוני</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat10/%D7%A9%D7%99%D7%A8%D7%99_%D7%A8%D7%95%D7%A7%7Cfs%7C%D7%A4%D7%95%D7%A4">שירי רוק/פופ</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat16/%D7%94%D7%99%D7%A4_%D7%94%D7%95%D7%A4">היפ הופ</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat2/%D7%A9%D7%99%D7%A8%D7%99_%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C">שירי ארץ ישראל</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat3/%D7%A9%D7%99%D7%A8%D7%99_%D7%9C%D7%94%D7%A7%D7%95%D7%AA_%D7%A6%D7%91%D7%90%D7%99%D7%95%D7%AA">שירי להקות צבאיות</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat4/%D7%A9%D7%A8%D7%99%D7%9D_%D7%91%D7%A9%D7%A0%D7%99%D7%99%D7%9D">שרים בשניים</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat20/%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%91%D7%9C%D7%95%D7%A2%D7%96%D7%99%D7%AA">שירים בלועזית</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat5/%D7%A9%D7%99%D7%A8%D7%99_%D7%90%D7%94%D7%91%D7%94">שירי אהבה</a></li>
+                                                                </ul><ul class="col-md-4">
+                                                                 <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat17/%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%95%D7%AA">מחרוזות</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat7/%D7%A9%D7%99%D7%A8%D7%99_%D7%99%D7%9C%D7%93%D7%99%D7%9D">שירי ילדים</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat33/%D7%A9%D7%99%D7%A8%D7%99_%D7%A7%D7%98%D7%A0%D7%98%D7%A0%D7%99%D7%9D">שירי קטנטנים</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat11/%D7%A9%D7%99%D7%A8%D7%99_%D7%A8%D7%99%D7%A7%D7%95%D7%93%D7%99_%D7%A2%D7%9D">שירי ריקודי עם</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat34/%D7%9E%D7%A1%D7%99%D7%91%D7%AA_%D7%A8%D7%95%D7%95%D7%A7%D7%95%D7%AA">מסיבת רווקות</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat35/%D7%9E%D7%A1%D7%99%D7%91%D7%94_%D7%9E%D7%96%D7%A8%D7%97%D7%99%D7%AA_">מסיבה מזרחית </a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat12/%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%99%D7%9D_">שירים חסידיים </a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat19/%D7%A8%D7%9E%D7%99%D7%A7%D7%A1">רמיקס</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat13/%D7%A9%D7%99%D7%A8%D7%99_%D7%99%D7%95%D7%9D_%D7%94%D7%95%D7%9C%D7%93%D7%AA">שירי יום הולדת</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat6/%D7%A9%D7%99%D7%A8%D7%99_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D">שירי ירושלים</a></li>
+                                                                </ul><ul class="col-md-4">
+                                                                 <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat18/%D7%A9%D7%99%D7%A8%D7%99_%D7%99%D7%95%D7%9D_%D7%94%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F">שירי יום הזיכרון</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat14/%D7%A9%D7%99%D7%A8%D7%99_%D7%97%D7%92_%D7%95%D7%9E%D7%95%D7%A2%D7%93">שירי חג ומועד</a></li>
+                                                             <li><a href="http://www.karaoketv.co.il/develop/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat36/%D7%9E%D7%A9%D7%97%D7%A7%D7%99_%D7%A7%D7%A8%D7%99%D7%95%D7%A7%D7%99">משחקי קריוקי</a></li>
+                                                            </ul>
+                                </li>
+                            </ul>
+                                                <div class="mainmenu-image col-md-3">
+                        <script type='text/javascript' src="http://www.karaoketv.co.il/develop/netAdmin/netCommerce.tpl_heb.js?t=4"></script>
+<script type='text/javascript' src="http://www.karaoketv.co.il/develop/netAdmin/netCommerce_global.js?t=4"></script>
+<a href='http://www.karaoke.co.il/info.php?docid=doc_free2' >
+<img src='//www.karaoketv.co.il/banners/הפקת קריוקי.jpg' width='230' height='230' style='cursor:pointer;border:0px;' onclick='updateAdvClicks("menuCat","84");' alt="הפקת קריוקי" >
+</a>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </li>
+<li class="dropdown">
+<a data-toggle="dropdown" role="button" class="dropdown-toggle" href="#" >הקריוקי שלי<span class="caret hasChildren"></span></a>
+
+                <div class="dropdown-menu" id="userData">
+                    <div class="container">
+                <div class="row mykaraoke">
+                    <div>
+                        <div class="innerMykaraoke col-md-9">
+                            <ul>
+                                <li class="visible-xs backToMenu">חזרה לתפריט הראשי</li>
+                                                                    <li class="mykaraoke-favorites"><a href="http://www.karaoketv.co.il/develop/%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95%D7%AA"><i class="i-favorites"></i><span>שירים שאהבתי</span></a></li>
+                                    <li class="mykaraoke-playlist"><a href="http://www.karaoketv.co.il/develop/%D7%94%D7%AA%D7%97%D7%91%D7%A8%D7%95%D7%AA"><i class="plus">+</i>צור רשימת השמעה חדשה</a></li>
+                                                            </ul>
+                        </div>
+                        <div class="mainmenu-image col-md-3">
+                            <a href='http://www.karaoke.co.il/info.php?docid=doc_free2' >
+<img src='//www.karaoketv.co.il/banners/הפקת קריוקי.jpg' width='230' height='230' style='cursor:pointer;border:0px;' onclick='updateAdvClicks("menuCat","84");' alt="הפקת קריוקי" >
+</a>                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+        
+
+        </li>
+  </ul>
+                            </nav>
+                        </div>
+                        <div class="search pull-right">
+                            <form action="http://www.karaoketv.co.il/develop/%D7%97%D7%99%D7%A4%D7%95%D7%A9" method="GET" id="searchForm" autocomplete="off">
+                                <input type="text" name="v" value="" placeholder="חיפוש שיר / זמר" class="form-control">
+                                <label for="v" class="sr-only">חיפוש שיר / זמר</label>
+                                <input type="submit" value="חפש" class="btn">
+                                <i class="i-magnify hidden-xs"></i>
+                            </form>
+
+                            <div id="mainSearch">
+                                <ul class="mainSearchWp">
+
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main role="main" aria-label="main content" id="main-content" class="main">
+
+    <section class="banner clearfix" role="region">
+        <div class="bannerContent">
+            <div class="karaoke_loading"><div class="loading"><div class="loader-inner line-scale-pulse-out"><div></div><div></div><div></div><div></div><div></div></div></div></div>
+        </div>
+    </section>
+
+    <section role="region" class="gradient top-rated clearfix">
+                    <div class="container" style="background:url(http://www.karaoketv.co.il/develop/prdPics/textBox/hpbox_25_text_pic.png) no-repeat left bottom;">
+                    <div class="row">
+                <div class="col-md-7 top-rated-text">
+                    <h1 class="title">עשרת הגדולים</h1>
+                    <div class="clearfix hidden-xs">
+                        <div class="legoText_25_text_body_heb">
+			<div class="lego-row">
+				<div style="width: 100%;" class="lego-col"><p>אתם כנראה ממש אוהבים את השירים האלו... קבלו את עשרת הגדולים במסיבות הקריוקי. חלקם חדשים, חלקם ישנים מה שבטוח הם הכי חזקים. אז כחכחו בגרון, תכינו את המקרופון ותתחילו לנגן אותם...</p></div>
+			</div>
+		</div>
+		<style>
+			.legoText_25_text_body_heb { width:100%;}
+			.legoText_25_text_body_heb .lego-col { margin-top: 10px;}
+			.legoText_25_text_body_heb .lego-row:after { display: block;content: '';clear: both;}
+			.legoText_25_text_body_heb .lego-row {margin-right: -5px;margin-left: -5px;}
+			.legoText_25_text_body_heb .lego-row:first-child .lego-col{margin-top:0;} 
+			.legoText_25_text_body_heb .lego-col {float: right;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;}
+			.legoText_25_text_body_heb .lego-col.lego-oh {overflow:hidden;}
+			.legoText_25_text_body_heb .lego-col.lego-vd > div {position:relative;padding-bottom:56.25%;height:0;width:100%;}
+			.legoText_25_text_body_heb .lego-col.lego-vd._34 > div {padding-bottom: 75%;}
+			.legoText_25_text_body_heb .lego-col.lego-vd > div iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
+			.legoText_25_text_body_heb .lego-col.lego-oh img {width:100%;}
+			.legoText_25_text_body_heb .lego-col video {width:100%!important;height:auto!important;}
+			.legoText_25_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:auto;}
+			.legoText_25_text_body_heb .lego-col .lego-sa {width:100%;height:100%;overflow:hidden;position:relative;}
+			.legoText_25_text_body_heb .lego-col .lego-sa p {position:relative;}
+			.legoText_25_text_body_heb .lego-col .lego-sa span.lego-sa {;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;display:inline-block;position:absolute; right:0; bottom:0;height:2em;line-height:2em;background:#000000;background:rgba(0,0,0,.4);color:white;overflow:hidden;padding:0 1em;width:auto;}
+			@media (max-width: 480px) { .legoText_25_text_body_heb .lego-col { width:100% !important; } .legoText_25_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:100%;} }
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+			function lego_25_text_body_heb() {}
+		//]]>
+		</script>                    </div>
+                </div>
+
+	                        </div>
+            <div class="row">
+                <div id="top10List">
+                    <div class="loading">
+                        <div class="loader-inner line-scale-pulse-out">
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section role="region" class="party clearfix">
+        <div class="container">
+
+	        
+            <div class="row">
+                <div class="col-md-6 col-xs-12 party-image"><img src="http://www.karaoketv.co.il/develop/prdPics/textBox/hpbox_22_text_pic.jpg" alt="מתכננים מסיבת קריוקי?"></div>
+                <div class="col-md-6 col-xs-12 party-text">
+                    <h2 class="title">מתכננים מסיבת קריוקי?</h2>
+                    <div class="legoText_22_text_body_heb">
+			<div class="lego-row">
+				<div style="width: 100%;" class="lego-col"><p>קריוקי TV בדיוק כאן בשבילכם<br />תוכלו להעביר ערב עם מאגר שירי הקריוקי הגדול במדינה בחינם!</p><p><strong>רוצים טיפ?</strong><br />הירשמו לאתר ללא עלות והכינו מראש רשימות השמעה<br />של כל השירים שאתם אוהבים..</p></div>
+			</div>
+		</div>
+		<style>
+			.legoText_22_text_body_heb { width:100%;}
+			.legoText_22_text_body_heb .lego-col { margin-top: 10px;}
+			.legoText_22_text_body_heb .lego-row:after { display: block;content: '';clear: both;}
+			.legoText_22_text_body_heb .lego-row {margin-right: -5px;margin-left: -5px;}
+			.legoText_22_text_body_heb .lego-row:first-child .lego-col{margin-top:0;} 
+			.legoText_22_text_body_heb .lego-col {float: right;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;}
+			.legoText_22_text_body_heb .lego-col.lego-oh {overflow:hidden;}
+			.legoText_22_text_body_heb .lego-col.lego-vd > div {position:relative;padding-bottom:56.25%;height:0;width:100%;}
+			.legoText_22_text_body_heb .lego-col.lego-vd._34 > div {padding-bottom: 75%;}
+			.legoText_22_text_body_heb .lego-col.lego-vd > div iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
+			.legoText_22_text_body_heb .lego-col.lego-oh img {width:100%;}
+			.legoText_22_text_body_heb .lego-col video {width:100%!important;height:auto!important;}
+			.legoText_22_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:auto;}
+			.legoText_22_text_body_heb .lego-col .lego-sa {width:100%;height:100%;overflow:hidden;position:relative;}
+			.legoText_22_text_body_heb .lego-col .lego-sa p {position:relative;}
+			.legoText_22_text_body_heb .lego-col .lego-sa span.lego-sa {;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;display:inline-block;position:absolute; right:0; bottom:0;height:2em;line-height:2em;background:#000000;background:rgba(0,0,0,.4);color:white;overflow:hidden;padding:0 1em;width:auto;}
+			@media (max-width: 480px) { .legoText_22_text_body_heb .lego-col { width:100% !important; } .legoText_22_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:100%;} }
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+			function lego_22_text_body_heb() {}
+		//]]>
+		</script>                                            <a href="login.php" class="party-link">להתחברות לחצו כאן</a>
+                                    </div>
+            </div>
+        </div>
+    </section>
+    <section role="region" class="clearfix">
+        <div class="gradient product clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 product-text">
+                        <h2 class="title">ערכת קריוקי במחיר הכי טוב בארץ!</h2>
+                        <div class="clearfix">
+                            <div class="legoText_23_text_body_heb">
+			<div class="lego-row">
+				<div style="width: 100%;" class="lego-col"><h2 class="title">750&nbsp;₪ בלבד</h2><p style="font-size: 13.3333px;"><span style="font-size: 14pt;"><strong>- דגם Blutooth s-350&nbsp;Proxima</strong></span></p><ol style="font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif;"><li style="font-size: 10px;"><span style="font-size: 12pt;">עוצמה : 350 WATT.</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">נגן BLUETOOTH לשידור אלחוטי.</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">זוג מיקרופונים אלחוטיים + שלט</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">אפקט ECHO &nbsp;לשירה בקריוקי .</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">מידות 35X56X31</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">חיבור לגיטרה וכלי נגינה עם שליטה נפרדת.</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">נגן MP3 &nbsp;מובנה עם כניסות SD CARD ו-USB.</span></li><li style="font-size: 10px;"><span style="font-size: 12pt;">משקל 11 ק"ג.</span></li></ol><p><span style="font-size: 12pt;">אצלכם תוך 7 ימי עסקים!</span></p></div>
+			</div>
+		</div>
+		<style>
+			.legoText_23_text_body_heb { width:100%;}
+			.legoText_23_text_body_heb .lego-col { margin-top: 10px;}
+			.legoText_23_text_body_heb .lego-row:after { display: block;content: '';clear: both;}
+			.legoText_23_text_body_heb .lego-row {margin-right: -5px;margin-left: -5px;}
+			.legoText_23_text_body_heb .lego-row:first-child .lego-col{margin-top:0;} 
+			.legoText_23_text_body_heb .lego-col {float: right;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;}
+			.legoText_23_text_body_heb .lego-col.lego-oh {overflow:hidden;}
+			.legoText_23_text_body_heb .lego-col.lego-vd > div {position:relative;padding-bottom:56.25%;height:0;width:100%;}
+			.legoText_23_text_body_heb .lego-col.lego-vd._34 > div {padding-bottom: 75%;}
+			.legoText_23_text_body_heb .lego-col.lego-vd > div iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
+			.legoText_23_text_body_heb .lego-col.lego-oh img {width:100%;}
+			.legoText_23_text_body_heb .lego-col video {width:100%!important;height:auto!important;}
+			.legoText_23_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:auto;}
+			.legoText_23_text_body_heb .lego-col .lego-sa {width:100%;height:100%;overflow:hidden;position:relative;}
+			.legoText_23_text_body_heb .lego-col .lego-sa p {position:relative;}
+			.legoText_23_text_body_heb .lego-col .lego-sa span.lego-sa {;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;display:inline-block;position:absolute; right:0; bottom:0;height:2em;line-height:2em;background:#000000;background:rgba(0,0,0,.4);color:white;overflow:hidden;padding:0 1em;width:auto;}
+			@media (max-width: 480px) { .legoText_23_text_body_heb .lego-col { width:100% !important; } .legoText_23_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:100%;} }
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+			function lego_23_text_body_heb() {}
+		//]]>
+		</script>                        </div>
+                                                    <a href="http://www.karaoke.co.il/%d7%9e%d7%a2%d7%a8%d7%9b%d7%95%d7%aa_%d7%94%d7%92%d7%91%d7%a8%d7%94_%d7%95%d7%90%d7%91%d7%99%d7%96%d7%a8%d7%99%d7%9d/%d7%91%d7%99%d7%93%d7%95%d7%a8%d7%99%d7%aa_PROXIMA_S350/" class="product-link">להזמנה</a>
+                                            </div>
+                    <div class="product-image"><img src="http://www.karaoketv.co.il/develop/prdPics/textBox/hpbox_23_text_pic.png" alt="ערכת קריוקי במחיר הכי טוב בארץ!"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section role="region" class="app clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 app-image hidden-xs"><img src="http://www.karaoketv.co.il/develop/prdPics/textBox/hpbox_24_text_pic.png" alt="קריוקי בכל זמן ובכל מקום"></div>
+                <div class="col-md-6 app-text">
+                    <h2 class="title hidden-xs">קריוקי בכל זמן ובכל מקום</h2>
+                    <div class="clearfix appLinkWrapper">
+                        <div class="legoText_24_text_body_heb">
+			<div class="lego-row">
+				<div style="width: 100%;" class="lego-col"><div class="clearfix hidden-xs"><p>הורידו את אפליקצית שרים קריוקי ותוכלו ליהנות מחווית קריוקי מושלמת!<br />כל השירים וכל הזמרים בכל מקום שתרצו<br />האזינו לרשימות ההשמעה שלכם, חפשו מסיבות קריוקי קרובות ועוד...<br />זמין להורדה באפסטור ובגוגל פליי</p></div><div class="clearfix visible-xs"><p>הורידו את אפליקציית שרים קריוקי ותהנו בכל מקום</p></div><div class="clearfix"><a class="app-link" href="https://itunes.apple.com/us/app/srym-qrywqy/id1018246519?mt=8"><img class="hidden-xs" src="http://www.karaoketv.co.il/images/app-store.png" alt="Download on the App Store" /></a> <a class="app-link app-play" href="https://play.google.com/store/apps/details?id=com.picsize.karaoke" target="_blank"><img class="hidden-xs" src="http://www.karaoketv.co.il/images/app-play.png" alt="Get it on Google play" /></a></div></div>
+			</div>
+		</div>
+		<style>
+			.legoText_24_text_body_heb { width:100%;}
+			.legoText_24_text_body_heb .lego-col { margin-top: 10px;}
+			.legoText_24_text_body_heb .lego-row:after { display: block;content: '';clear: both;}
+			.legoText_24_text_body_heb .lego-row {margin-right: -5px;margin-left: -5px;}
+			.legoText_24_text_body_heb .lego-row:first-child .lego-col{margin-top:0;} 
+			.legoText_24_text_body_heb .lego-col {float: right;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;}
+			.legoText_24_text_body_heb .lego-col.lego-oh {overflow:hidden;}
+			.legoText_24_text_body_heb .lego-col.lego-vd > div {position:relative;padding-bottom:56.25%;height:0;width:100%;}
+			.legoText_24_text_body_heb .lego-col.lego-vd._34 > div {padding-bottom: 75%;}
+			.legoText_24_text_body_heb .lego-col.lego-vd > div iframe {position:absolute;top:0;left:0;width:100%;height:100%;}
+			.legoText_24_text_body_heb .lego-col.lego-oh img {width:100%;}
+			.legoText_24_text_body_heb .lego-col video {width:100%!important;height:auto!important;}
+			.legoText_24_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:auto;}
+			.legoText_24_text_body_heb .lego-col .lego-sa {width:100%;height:100%;overflow:hidden;position:relative;}
+			.legoText_24_text_body_heb .lego-col .lego-sa p {position:relative;}
+			.legoText_24_text_body_heb .lego-col .lego-sa span.lego-sa {;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;display:inline-block;position:absolute; right:0; bottom:0;height:2em;line-height:2em;background:#000000;background:rgba(0,0,0,.4);color:white;overflow:hidden;padding:0 1em;width:auto;}
+			@media (max-width: 480px) { .legoText_24_text_body_heb .lego-col { width:100% !important; } .legoText_24_text_body_heb .lego-col.lego-oh img.lego_imgfixed {width:100%;} }
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+			function lego_24_text_body_heb() {}
+		//]]>
+		</script>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+     </main>
+     <div class="push"></div>
+    </div>
+
+     
+    <footer role="contentinfo" aria-label="footer" class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 footerLinks hidden-xs">
+                    <nav class="footermenu">
+                        <ul class=""><li >
+<a href="http://www.karaoketv.co.il" >ראשי</a>
+<ul class=""><li >
+<a href="http://www.karaoketv.co.il/develop/%D7%AA%D7%A7%D7%A0%D7%95%D7%9F_%D7%94%D7%90%D7%AA%D7%A8" >תקנון האתר</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/develop/%D7%94%D7%A6%D7%94%D7%A8%D7%AA_%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA" >הצהרת נגישות</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/develop/%D7%9E%D7%A4%D7%AA_%D7%90%D7%AA%D7%A8" >מפת אתר</a>
+</li>
+  </ul>
+</li>
+<li >
+<a  >קטגוריות</a>
+<ul class=""><li >
+<a href="http://karaoketv.tyco.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat22/%D7%94%D7%9E%D7%91%D7%95%D7%A7%D7%A9%D7%99%D7%9D_%D7%91%D7%99%D7%95%D7%AA%D7%A8" >המבוקשים ביותר</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat8/%D7%97%D7%93%D7%A9_%D7%91%D7%A7%D7%A8%D7%99%D7%95%D7%A7%D7%99" >חדש בקריוקי</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat9/%D7%99%D7%9D_%D7%AA%D7%99%D7%9B%D7%95%D7%A0%D7%99" >ים תיכוני</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat10/%D7%A9%D7%99%D7%A8%D7%99_%D7%A8%D7%95%D7%A7%7Cfs|%D7%A4%D7%95%D7%A4" >שירי רוק/ פופ</a>
+</li>
+<li >
+<a href="http://www.karaoketv.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%AA/cat16/%D7%A8%D7%90%D7%A4" >ראפ</a>
+</li>
+  </ul>
+</li>
+<li >
+<a href="http://www.karaoke.co.il/%D7%A6%D7%A8%D7%95_%D7%A7%D7%A9%D7%A8/" >צור קשר</a>
+</li>
+  </ul>
+                    </nav>
+                </div>
+
+                <!--<div class="visible-xs appDown">
+                    <div class="clearfix visible-xs"><p></p></div>
+                    <div class="clearfix appLinkWrapper">
+                        <a href="#" class="app-link app-link2"><img src="images/app-store.png" alt=""></a>
+                        <a href="#" class="app-link app-link2"><img src="images/app-play.png" alt=""></a>
+                    </div>
+                </div>-->
+
+                <div class="col-md-4 newsletternsocial">
+                    <div class="clearfix">
+                        <h3 class="newsletter-title">הירשמו לניוזלטר שרים קריוקי והישארו מעודכנים:</h3>
+                        <div class="newsletter-form">
+                            <form action="#" method="post" id="newsLetter" autocomplete="off">
+                                <div class="form-group">
+                                    <label for="email-address" class="pull-left">כתובת מייל</label>
+                                    <input type="email" class="form-control pull-left"  name="email-address" id="email-address" placeholder="" required="">
+                                    <input type="submit" class="btn pull-right newsletterSubmit" value="שלח">
+                                    <div class="loader">
+
+                                        <div class="icon-checked bounceIn">
+                                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="35px" viewBox="0 0 10.775 9.117" enable-background="new 0 0 10.775 9.117" xml:space="preserve">
+                                                    <path fill="#2A7689" d="M9.133,0L8.899,0.224C8.731,0.392,8.563,0.562,8.4,0.735C7.791,1.377,7.177,2.091,6.526,2.916
+                                            C5.96,3.634,5.38,4.419,4.805,5.249C4.653,5.466,4.507,5.68,4.358,5.898L4.329,5.9C4.298,5.943,4.255,5.974,4.198,5.974
+                                            c-0.051,0-0.094-0.023-0.125-0.059L4.058,5.917C3.261,4.906,2.045,3.646,2.045,3.646L0,3.615C2.631,7.569,2.596,7.57,3.365,9.117
+                                            h1.716C5.144,8.991,5.235,8.805,5.265,8.74l0.149-0.317l0.31-0.632c0.21-0.42,0.426-0.843,0.646-1.257
+                                            c0.469-0.883,0.92-1.679,1.379-2.435C8.27,3.239,8.762,2.495,9.255,1.82c0.132-0.179,0.268-0.357,0.402-0.531l0.205-0.261
+                                            l0.203-0.245c0.054-0.068,0.109-0.128,0.162-0.19l0.052-0.059c0.071-0.083,0.143-0.166,0.215-0.24
+                                            C10.587,0.192,10.682,0.095,10.775,0H9.133z"></path>
+                                            </svg>
+                                        </div>
+
+                                        <div class="loading"><div class="loader-inner line-scale-pulse-out"><div></div><div></div><div></div><div></div><div></div></div></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="social clearfix">
+                        <h4>הישארו מעודכנים גם בפייסבוק</h4>
+                        <a href="http://www.facebook.com/pages/srym-qrywqy-mgr-hplyybqym-sl-hzmrym-hmwbylym-bysrl-lhwrdh-myydyt/167300669959435" title="עקבו אחרינו בפייסבוק"><i class="i-facebook"></i><span class="sr-only">פייסבוק</span></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-5">
+                        <a href="http://www.acum.org.il/" target="_blank" class="akum">
+                            <span>האתר פועל ברישיון</span>
+                            <img src="http://www.karaoketv.co.il/develop/images/akum.png" alt="אקו&quot;ם">
+                        </a>
+                    </div>
+                    <div class="col-xs-7">
+                        <a href="http://www.tyco.co.il" title="טייקו" target="_blank" class="tyco"><span>בניית אתרים</span></a>
+                        <a href="https://www.linkedin.com/profile/view?id=140068899" target="_blank" class="kobiRazon">Ux & Design: Kobi Razon</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+    
+<div class="modal fade" id="subscriptionRegister" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button aria-label="סגור" data-dismiss="modal" class="close i-x" type="button"></button>
+                <h4 class="modal-title">על מנת להנות מ: שינוי סולמות, עלייך להיות משתמש מנוי, לרשותך:</h4>
+            </div>
+            <div class="modal-body">
+                                    <div class="subType">
+                        <div class="type">חודש</div>
+                        <div class="price">5 ₪</div>
+                        <a href="https://www.karaoketv.co.il/develop/pay.php?pc=ILM">לרכישה</a>
+                    </div>
+                                </div>
+        </div>
+    </div>
+</div>
+
+     			<script type="text/javascript" src="http://www.karaoketv.co.il/develop/js/na_jsTpl_heb.js?t=5"></script>
+						<script type="text/javascript" src="http://www.karaoketv.co.il/develop/js/scripts.footer.combined.js"></script>
+						<script type="text/javascript" src="http://www.karaoketv.co.il/develop/js/addwat.js?t=5"></script>
+			
+
+</body>
+</html>

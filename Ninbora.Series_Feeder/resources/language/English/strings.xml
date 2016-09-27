@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- info -->
+  <string id="1001">Load Series Started</string>"
+  <string id="1002">Added {0}/{1}.Load Series Ended</string>"
+  <string id="1003">Load Episode Started</string>"
+  <string id="1004">Added {0}/{1}. Load Episode Ended</string>"
+  <string id="1005">Load Bundles Start</string>"
+  <string id="1006">Added {0}/{1}. Load Bundles Ended</string>"
+  <string id="1007">Load Package Started</string>"
+  <string id="1008">Added {0}/{1}. Load Package Ended</string>"
+  <string id="1009">Clean Library</string>"
+  <string id="1010">Clean Cache</string>"
+  <string id="1011">Clean Logs</string>"
+
+<!-- Fillter -->
+  <string id="30000">Filter</string>
+  <string id="30001">Filter By Years </string>
+  <string id="30002">Filter By Rating</string>
+  <string id="30003">Filter By Genre </string>
+  <string id="30004">Imdb link</string>
+  <string id="30005">Ignore Series</string>
+  <string id="30006">Filter By Episode Count</string>
+  <!-- genres values -->
+  <string id="30100">Any</string>
+  <string id="30101">Action</string>
+  <string id="30102">Adventure</string>
+  <string id="30103">Comedy</string>
+  <string id="30104">Drama</string>
+  <string id="30105">Horror</string>
+  <string id="30106">Thriller</string>
+  <string id="30107">Animation</string>
+  <string id="30108">Western</string>
+  <string id="30109">War</string>
+  <string id="30110">Romance</string>
+  <string id="30111">Sci-Fi</string>
+  <string id="30112">Mystery</string>
+  <string id="30113">Crime</string>
+  <string id="30114">History</string>
+  <string id="30115">Family</string>
+  <string id="30116">Fantasy</string>
+  <string id="30117">Documentary</string>
+  <string id="30118">Biography</string>
+  <string id="30119">Music</string>
+  <string id="30120">Musical</string>
+  <string id="30121">Adult</string>
+  <string id="30122">News</string>
+  <string id="30123">Short</string>
+  <string id="30124">Sport</string>
+  <string id="30125">Film-Noir</string>
+  <!-- years values -->
+  <string id="30200">Above Year</string>
+  <string id="30201">Below Year</string>
+  <!-- rating values -->
+  <string id="30300">Above Rating</string>
+  <string id="30301">Below Rating</string>
+  <string id="30302">Minimum Votes </string>
+  <!-- sort mode -->
+  <string id="30400">Sort By</string>
+  <string id="30401">Num Votes</string>
+  <string id="30402">Moviemeter</string>
+  <string id="30403">User Rating</string>
+  <string id="30404">Year</string>
+  <string id="30405">Release Date US</string>
+  <!-- sort mode direction-->
+  <string id="30500">Sort Direction</string>
+  <string id="30501">Descending</string>
+  <string id="30502">Ascending</string>  
+  <!-- ignore -->
+  <string id="30511">Ignore IMDB</string>
+  <string id="30512">Ignore IMDB Id file</string>
+  <!-- Episode count -->
+  <string id="30521">Episode Above</string>
+  <string id="30522">When Year Below</string>
+<!-- Update-->
+  <string id="31000">Update</string>
+  <string id="31001">Automatic</string>
+  <string id="31002">Manual</string>
+  <string id="31003">Update Series</string>
+  <string id="31004">Refresh Info</string>
+  <string id="31005">Series Last Update</string>
+  <string id="31006">Series Refresh First Delay (Minutes)</string>
+  <string id="31007">Series Refresh Mode</string>
+  <string id="31008">Episode Last Update</string>
+  <string id="31009">Episode Refresh First Delay (Minutes)</string>
+  <string id="31010">Episode Refresh Mode</string>
+  <string id="31011">Update Episodes</string>
+  <string id="31012">Display Notifcations</string>
+  <string id="31013">Download Thumbs</string>
+  <string id="31014">Library Location</string>
+
+  <!-- refresh interval -->
+  <string id="31111">None</string>
+  <string id="31112">Once</string>
+  <string id="31113">Each 1 day</string>
+  <string id="31114">Each 2 days</string>
+  <string id="31115">Each 3 days</string>
+  <string id="31116">Each week</string>
+  <string id="31117">Each 3 hours</string>
+  <!-- refresh items -->
+  <string id="31020">Number of Series to Fetch</string>
+  <!-- stream mode -->
+  <string id="31030">Stream mode</string>
+  <string id="31031">Exodus</string>
+  <string id="31032">Pulsar</string>
+  <string id="31033">Stream All The Sources (SALTS)</string>
+  <string id="31034">Quasar</string>
+  <!-- Bundles/Packages -->
+  <string id="32000">Bundles/Packages</string>
+  <string id="32001">Bundles</string>
+  <string id="32002">Bundle Source</string>
+  <string id="32003">Add From Bundle Source</string>
+  <string id="32004">Packages</string>
+  <string id="32005">Package File</string>
+  <string id="32006">Add From Package File</string>
+  <string id="32007">Package Link</string>
+  <string id="32008">Add From Package Link</string>
+  <string id="32009">List of IMDB ID </string>
+  <string id="32010">Add From List of IMDB ID</string>
+  <string id="32011">IMDB ID </string>
+  
+<!-- clean -->
+  <string id="32100">Clean</string>
+  <string id="32101">Clean Library</string>
+  <string id="32102">Clean Cache</string>
+  <string id="32103">Clean Logs</string>
+<!-- language -->
+  <string id="33000">Language</string>
+  <string id="33001">Series Language Info </string>
+  <string id="33002">Load Only Series which Subs </string>
+
+  <!-- info -->
+  <string id="33101">English</string>
+  <string id="33102">Svenska</string>
+  <string id="33103">Norsk</string>
+  <string id="33104">Dansk</string>
+  <string id="33105">Suomeksi</string>
+  <string id="33106">Nederlands</string>
+  <string id="33107">Deutsch</string>
+  <string id="33108">Italiano</string>
+  <string id="33109">Español</string>
+  <string id="33110">Français</string>
+  <string id="33111">Polski</string>
+  <string id="33112">Magyar</string>
+  <string id="33113">Greek</string>
+  <string id="33114">Turkish</string>
+  <string id="33115">Russian</string>
+  <string id="33116">Hebrew</string>
+  <string id="33117">Japanese</string>
+  <string id="33118">Portuguese</string>
+  <string id="33119">Chinese</string>
+  <string id="33120">Czech</string>
+  <string id="33121">Slovenian</string>
+  <string id="33122">Croatian</string>
+  <string id="33123">Korean</string>
+  <!-- subs -->
+  <string id="33401">Any</string>
+  <string id="33402">Albanian</string>
+  <string id="33403">Albanian</string>
+  <string id="33404">Arabic</string>
+  <string id="33405">Bosnian</string>
+  <string id="33406">Brazilian</string>
+  <string id="33407">Bulgarian</string>
+  <string id="33408">Croatian</string>
+  <string id="33409">Czech</string>
+  <string id="33410">Danish</string>
+  <string id="33411">Dutch</string>
+  <string id="33412">English</string>
+  <string id="33413">Estonian</string>
+  <string id="33414">Farsi</string>
+  <string id="33415">Finnish</string>
+  <string id="33416">French</string>
+  <string id="33417">German</string>
+  <string id="33418">Greek</string>
+  <string id="33419">Hebrew</string>
+  <string id="33420">Hungarian</string>
+  <string id="33421">Italian</string>
+  <string id="33422">Norwegian</string>
+  <string id="33423">Polish</string>
+  <string id="33424">Portuguese</string>
+  <string id="33425">Romanian</string>
+  <string id="33426">Russian</string>
+  <string id="33427">Serbian</string>
+  <string id="33428">Slovenian</string>
+  <string id="33429">Spanish</string>
+  <string id="33430">Swedish</string>
+  <string id="33431">Turkish</string>
+  <string id="33432">Vietnamese</string>
+</strings>

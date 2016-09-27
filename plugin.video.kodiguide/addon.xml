@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.kodiguide" name="[COLOR blue]Kodi[/COLOR]-[COLOR white]מדריכי[/COLOR]" version="1.0.1" provider-name="Lidor Malich">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>he</language>
+    <summary lang="he">[COLOR blue]Kodi[/COLOR]-[COLOR white]מדריכים[/COLOR] הרחבה למדריכים להתאמת [COLOR blue]Kodi[/COLOR]</summary>
+    <description lang="he">להרחבה יש מספר קטגוריות למדריכים להתאמת ה[COLOR blue]Kodi[/COLOR] המושלם בשבילך
+	מאפינים:
+	-ההרחבה כוללת מדריכים מהתחלה להורדת בילדים ל[COLOR blue]Kodi[/COLOR]
+	-ההרחבה כוללת מדריכים לעיצוב הבילדים
+	-איך לבנות בילד משלך
+	-בניית מגר הרחבות
+	---ההרחבה מבוססת YouTube</description>
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,0 +1,6 @@
+V 1.0
+
+Initial Release includes:
+- Build Releases
+- Minor updates & Fixes
+- Themes and skins updates

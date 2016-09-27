@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<!-- General -->
+	<category label="General">
+		<!-- Youtube provider -->
+		<setting id="youtube_provider" type="enum" label="Youtube Provider" values="YouTube addon|LiveStreamer" default="0" />
+		<!-- Pseudo Update -->
+		<setting id="pseudo_update" type="bool" label="Pseudo update" default="false"/>
+	</category>
+</settings>
