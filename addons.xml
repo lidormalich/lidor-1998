@@ -1143,7 +1143,7 @@ http://www.hometheater.co.il</description>
 	</extension>
 </addon>
 
-<addon id="repository.LidorMalich" name="lidorMalich Repo" version="1.0.1" provider-name="LidorMalich">
+<addon id="repository.LidorMalich" name="lidorMalich Repo" version="1.0.2" provider-name="LidorMalich">
 	<extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/lidormalicb/lidormalich1998/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/lidormalicb/lidormalich1998/master/addons.xml.md5</checksum>
