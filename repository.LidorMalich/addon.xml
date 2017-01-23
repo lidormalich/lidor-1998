@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.LidorMalich" name="lidorMalich Repo" version="1.0.2" provider-name="LidorMalich">
+<addon id="repository.LidorMalich" name="lidorMalich Repo" version="1.0.3" provider-name="LidorMalich">
 	<extension point="xbmc.addon.repository">
-		<info compressed="false">https://raw.githubusercontent.com/lidormalicb/lidormalich1998/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/lidormalicb/lidormalich1998/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/lidormalicb/lidormalich1998/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/lidormalicb/lidor-998/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/lidormalicb/lidor-998/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/lidormalicb/lidor-998/master/</datadir>
     </extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en"></summary>
